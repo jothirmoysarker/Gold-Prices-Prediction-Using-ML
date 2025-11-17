@@ -2,7 +2,8 @@
 
 This project focuses on predicting gold prices using multiple machine learning and time series models.  
 The system analyzes historical financial data and applies advanced forecasting techniques to improve prediction accuracy.  
-All model training, evaluation, and visualization were conducted in Google Colab.
+All model training, evaluation, and visualization were conducted in Google Colab. 
+The data contains historical gold price data (1950–2020) from reliable sources Kaggle.
 
 ## Features
 
@@ -28,8 +29,8 @@ To run this project, you need:
   - pandas
   - matplotlib
   - scikit-learn
-  - tensorflow / keras (if using ANN)
-- Dataset containing gold price historical records
+  - tensorflow
+- Dataset containing gold price historical records.
 
 ## How to Run the Project
 
